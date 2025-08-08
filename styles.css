@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background: url('https://i.imgur.com/BUpaDBI.jpeg') no-repeat center center fixed linear-gradient(135deg, #000000 0%, #1a1a1a 50%, #000000 100%);
+    background: url('https://i.imgur.com/BUpaDBI.jpeg') no-repeat center center fixed;
     color: #ffffff;
     overflow-x: hidden;
     min-height: 100vh;
